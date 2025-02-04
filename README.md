@@ -1,2 +1,2 @@
-# Computer-Vision-AI-Human-Pose-Estimation
+Human Yoga Pose Estimation
 
