@@ -80,7 +80,7 @@ function decrease() {
       $("#time-remaining").text("Starting in: " + timer + "s");
     } else {
       sessionTimer = true;
-      timer = 15;
+      timer = 25;
       $("#time-remaining").text("Time left: " + timer + "s");
     }
   } else {
